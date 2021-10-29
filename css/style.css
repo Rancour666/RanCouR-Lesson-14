@@ -75,7 +75,7 @@ main{
 
 .header {
 	background: url('../img/header-bg.jpg');
-	padding: 100px 0px;
+	padding: 100px 0px 180px 0px;
 	position: relative;
 	z-index: 2;
 }
